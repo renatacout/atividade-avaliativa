@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rrena\\source\\repos\\atividade-avaliativa\\AtividadeAvaliativa\\AtividadeAvaliativa\\AtividadeAvaliativa.csproj": {}
+    "C:\\Users\\rrena\\Source\\Repos\\atividade-avaliativa\\AtividadeAvaliativa\\AtividadeAvaliativa\\AtividadeAvaliativa.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rrena\\source\\repos\\atividade-avaliativa\\AtividadeAvaliativa\\AtividadeAvaliativa\\AtividadeAvaliativa.csproj": {
+    "C:\\Users\\rrena\\Source\\Repos\\atividade-avaliativa\\AtividadeAvaliativa\\AtividadeAvaliativa\\AtividadeAvaliativa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rrena\\source\\repos\\atividade-avaliativa\\AtividadeAvaliativa\\AtividadeAvaliativa\\AtividadeAvaliativa.csproj",
+        "projectUniqueName": "C:\\Users\\rrena\\Source\\Repos\\atividade-avaliativa\\AtividadeAvaliativa\\AtividadeAvaliativa\\AtividadeAvaliativa.csproj",
         "projectName": "AtividadeAvaliativa",
-        "projectPath": "C:\\Users\\rrena\\source\\repos\\atividade-avaliativa\\AtividadeAvaliativa\\AtividadeAvaliativa\\AtividadeAvaliativa.csproj",
+        "projectPath": "C:\\Users\\rrena\\Source\\Repos\\atividade-avaliativa\\AtividadeAvaliativa\\AtividadeAvaliativa\\AtividadeAvaliativa.csproj",
         "packagesPath": "C:\\Users\\rrena\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\rrena\\source\\repos\\atividade-avaliativa\\AtividadeAvaliativa\\AtividadeAvaliativa\\obj\\",
         "projectStyle": "PackageReference",

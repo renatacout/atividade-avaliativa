@@ -28,48 +28,48 @@
         /// </summary>
         private void InitializeComponent()
         {
-            button1 = new Button();
-            button2 = new Button();
-            button3 = new Button();
-            button4 = new Button();
+            btnCliente = new Button();
+            btnProduto = new Button();
+            btnPedido = new Button();
+            btnUsuario = new Button();
             label1 = new Label();
             SuspendLayout();
             // 
-            // button1
+            // btnCliente
             // 
-            button1.Location = new Point(299, 129);
-            button1.Name = "button1";
-            button1.Size = new Size(179, 34);
-            button1.TabIndex = 0;
-            button1.Text = "Cadastro de Clientes";
-            button1.UseVisualStyleBackColor = true;
+            btnCliente.Location = new Point(299, 129);
+            btnCliente.Name = "btnCliente";
+            btnCliente.Size = new Size(179, 34);
+            btnCliente.TabIndex = 0;
+            btnCliente.Text = "Cadastro de Clientes";
+            btnCliente.UseVisualStyleBackColor = true;
             // 
-            // button2
+            // btnProduto
             // 
-            button2.Location = new Point(299, 167);
-            button2.Name = "button2";
-            button2.Size = new Size(179, 34);
-            button2.TabIndex = 1;
-            button2.Text = "Cadastro de Produtos ";
-            button2.UseVisualStyleBackColor = true;
+            btnProduto.Location = new Point(299, 167);
+            btnProduto.Name = "btnProduto";
+            btnProduto.Size = new Size(179, 34);
+            btnProduto.TabIndex = 1;
+            btnProduto.Text = "Cadastro de Produtos ";
+            btnProduto.UseVisualStyleBackColor = true;
             // 
-            // button3
+            // btnPedido
             // 
-            button3.Location = new Point(299, 206);
-            button3.Name = "button3";
-            button3.Size = new Size(179, 34);
-            button3.TabIndex = 2;
-            button3.Text = "Cadastro de Pedidos ";
-            button3.UseVisualStyleBackColor = true;
+            btnPedido.Location = new Point(299, 206);
+            btnPedido.Name = "btnPedido";
+            btnPedido.Size = new Size(179, 34);
+            btnPedido.TabIndex = 2;
+            btnPedido.Text = "Cadastro de Pedidos ";
+            btnPedido.UseVisualStyleBackColor = true;
             // 
-            // button4
+            // btnUsuario
             // 
-            button4.Location = new Point(299, 244);
-            button4.Name = "button4";
-            button4.Size = new Size(179, 34);
-            button4.TabIndex = 3;
-            button4.Text = "Cadastro de Usuários";
-            button4.UseVisualStyleBackColor = true;
+            btnUsuario.Location = new Point(299, 244);
+            btnUsuario.Name = "btnUsuario";
+            btnUsuario.Size = new Size(179, 34);
+            btnUsuario.TabIndex = 3;
+            btnUsuario.Text = "Cadastro de Usuários";
+            btnUsuario.UseVisualStyleBackColor = true;
             // 
             // label1
             // 
@@ -86,10 +86,10 @@
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
             Controls.Add(label1);
-            Controls.Add(button4);
-            Controls.Add(button3);
-            Controls.Add(button2);
-            Controls.Add(button1);
+            Controls.Add(btnUsuario);
+            Controls.Add(btnPedido);
+            Controls.Add(btnProduto);
+            Controls.Add(btnCliente);
             Name = "FormPrincipal";
             Text = "FormPrincipal";
             ResumeLayout(false);
@@ -98,10 +98,10 @@
 
         #endregion
 
-        private Button button1;
-        private Button button2;
-        private Button button3;
-        private Button button4;
+        private Button btnCliente;
+        private Button btnProduto;
+        private Button btnPedido;
+        private Button btnUsuario;
         private Label label1;
     }
 }
