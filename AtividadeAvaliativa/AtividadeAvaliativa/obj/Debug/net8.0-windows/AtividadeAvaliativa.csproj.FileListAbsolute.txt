@@ -14,7 +14,6 @@ C:\Users\rrena\source\repos\atividade-avaliativa\AtividadeAvaliativa\AtividadeAv
 C:\Users\rrena\source\repos\atividade-avaliativa\AtividadeAvaliativa\AtividadeAvaliativa\obj\Debug\net8.0-windows\AtividadeAvaliativa.AssemblyInfoInputs.cache
 C:\Users\rrena\source\repos\atividade-avaliativa\AtividadeAvaliativa\AtividadeAvaliativa\obj\Debug\net8.0-windows\AtividadeAvaliativa.AssemblyInfo.cs
 C:\Users\rrena\source\repos\atividade-avaliativa\AtividadeAvaliativa\AtividadeAvaliativa\obj\Debug\net8.0-windows\AtividadeAvaliativa.csproj.CoreCompileInputs.cache
-C:\Users\rrena\source\repos\atividade-avaliativa\AtividadeAvaliativa\AtividadeAvaliativa\obj\Debug\net8.0-windows\AtividadeAvaliativa.sourcelink.json
 C:\Users\rrena\source\repos\atividade-avaliativa\AtividadeAvaliativa\AtividadeAvaliativa\obj\Debug\net8.0-windows\AtividadeAvaliativa.dll
 C:\Users\rrena\source\repos\atividade-avaliativa\AtividadeAvaliativa\AtividadeAvaliativa\obj\Debug\net8.0-windows\refint\AtividadeAvaliativa.dll
 C:\Users\rrena\source\repos\atividade-avaliativa\AtividadeAvaliativa\AtividadeAvaliativa\obj\Debug\net8.0-windows\AtividadeAvaliativa.pdb
