@@ -16,5 +16,33 @@ namespace AtividadeAvaliativa
         {
             InitializeComponent();
         }
+
+        private void btnCliente_Click(object sender, EventArgs e)
+        {
+            FormCadCliente formCadCliente = new FormCadCliente();
+            formCadCliente.Show();
+            this.Hide();
+        }
+
+        private void btnProduto_Click(object sender, EventArgs e)
+        {
+            FormCadProduto formCadProduto = new FormCadProduto();
+            formCadProduto.Show();
+            this.Hide();
+        }
+
+        private void btnPedido_Click(object sender, EventArgs e)
+        {
+            FormCadPedido formCadPedido = new FormCadPedido();
+            formCadPedido.Show();
+            this.Hide();
+        }
+
+        private void btnUsuario_Click(object sender, EventArgs e)
+        {
+            FormCadUsuario formCadUsuario = new FormCadUsuario();
+            formCadUsuario.Show();
+            this.Hide();
+        }
     }
 }

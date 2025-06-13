@@ -43,6 +43,7 @@
             btnCliente.TabIndex = 0;
             btnCliente.Text = "Cadastro de Clientes";
             btnCliente.UseVisualStyleBackColor = true;
+            btnCliente.Click += btnCliente_Click;
             // 
             // btnProduto
             // 
@@ -52,6 +53,7 @@
             btnProduto.TabIndex = 1;
             btnProduto.Text = "Cadastro de Produtos ";
             btnProduto.UseVisualStyleBackColor = true;
+            btnProduto.Click += btnProduto_Click;
             // 
             // btnPedido
             // 
@@ -61,6 +63,7 @@
             btnPedido.TabIndex = 2;
             btnPedido.Text = "Cadastro de Pedidos ";
             btnPedido.UseVisualStyleBackColor = true;
+            btnPedido.Click += btnPedido_Click;
             // 
             // btnUsuario
             // 
@@ -70,6 +73,7 @@
             btnUsuario.TabIndex = 3;
             btnUsuario.Text = "Cadastro de Usuários";
             btnUsuario.UseVisualStyleBackColor = true;
+            btnUsuario.Click += btnUsuario_Click;
             // 
             // label1
             // 
