@@ -1,0 +1,59 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build Results
+bin/
+obj/
+[Bb]uild/
+[Bb]uild[Ll]og.*
+
+# NuGet
+*.nupkg
+# The packages folder can be ignored because of Package Restore
+**/packages/*
+!**/packages/build/
+!**/packages/repositories.config
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userprefs
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# OS generated files
+.DS_Store
+*.swp
+*.swn
+*.bak
+*.tmp
+*.~*
+
+# Rider
+.idea/
+*.sln.iml
+
+# Logs
+*.log
+
+# Others
+*.vsidx
+*.vssscc
+*.vsscc
+
+# Exclude JetBrains Rider working folders
+.idea/
+.idea/*
+
+# Others specific to your case
+AtividadeAvaliativa/.vs/
