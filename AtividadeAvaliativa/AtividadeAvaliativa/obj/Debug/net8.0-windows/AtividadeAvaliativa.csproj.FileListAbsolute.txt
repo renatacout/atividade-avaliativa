@@ -19,3 +19,4 @@ C:\Users\rrena\source\repos\atividade-avaliativa\AtividadeAvaliativa\AtividadeAv
 C:\Users\rrena\source\repos\atividade-avaliativa\AtividadeAvaliativa\AtividadeAvaliativa\obj\Debug\net8.0-windows\AtividadeAvaliativa.pdb
 C:\Users\rrena\source\repos\atividade-avaliativa\AtividadeAvaliativa\AtividadeAvaliativa\obj\Debug\net8.0-windows\AtividadeAvaliativa.genruntimeconfig.cache
 C:\Users\rrena\source\repos\atividade-avaliativa\AtividadeAvaliativa\AtividadeAvaliativa\obj\Debug\net8.0-windows\ref\AtividadeAvaliativa.dll
+C:\Users\rrena\Source\Repos\atividade-avaliativa\AtividadeAvaliativa\AtividadeAvaliativa\obj\Debug\net8.0-windows\AtividadeAvaliativa.sourcelink.json

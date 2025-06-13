@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\rrena\\source\\repos\\atividade-avaliativa\\AtividadeAvaliativa\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F3BD18B3-86E9-4CB8-85D2-5C231F2D1259}|AtividadeAvaliativa\\AtividadeAvaliativa.csproj|c:\\users\\rrena\\source\\repos\\atividade-avaliativa\\atividadeavaliativa\\atividadeavaliativa\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3BD18B3-86E9-4CB8-85D2-5C231F2D1259}|AtividadeAvaliativa\\AtividadeAvaliativa.csproj|solutionrelative:atividadeavaliativa\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F3BD18B3-86E9-4CB8-85D2-5C231F2D1259}|AtividadeAvaliativa\\AtividadeAvaliativa.csproj|c:\\users\\rrena\\source\\repos\\atividade-avaliativa\\atividadeavaliativa\\atividadeavaliativa\\formcadusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F3BD18B3-86E9-4CB8-85D2-5C231F2D1259}|AtividadeAvaliativa\\AtividadeAvaliativa.csproj|solutionrelative:atividadeavaliativa\\formcadusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3BD18B3-86E9-4CB8-85D2-5C231F2D1259}|AtividadeAvaliativa\\AtividadeAvaliativa.csproj|c:\\users\\rrena\\source\\repos\\atividade-avaliativa\\atividadeavaliativa\\atividadeavaliativa\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3BD18B3-86E9-4CB8-85D2-5C231F2D1259}|AtividadeAvaliativa\\AtividadeAvaliativa.csproj|solutionrelative:atividadeavaliativa\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F3BD18B3-86E9-4CB8-85D2-5C231F2D1259}|AtividadeAvaliativa\\AtividadeAvaliativa.csproj|c:\\users\\rrena\\source\\repos\\atividade-avaliativa\\atividadeavaliativa\\atividadeavaliativa\\formcadusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -27,19 +35,44 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "C:\\Users\\rrena\\source\\repos\\atividade-avaliativa\\AtividadeAvaliativa\\AtividadeAvaliativa\\FormLogin.cs",
+              "RelativeDocumentMoniker": "AtividadeAvaliativa\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\rrena\\source\\repos\\atividade-avaliativa\\AtividadeAvaliativa\\AtividadeAvaliativa\\FormLogin.cs",
+              "RelativeToolTip": "AtividadeAvaliativa\\FormLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T02:37:52.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormLogin.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\rrena\\source\\repos\\atividade-avaliativa\\AtividadeAvaliativa\\AtividadeAvaliativa\\FormLogin.cs",
+              "RelativeDocumentMoniker": "AtividadeAvaliativa\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\rrena\\source\\repos\\atividade-avaliativa\\AtividadeAvaliativa\\AtividadeAvaliativa\\FormLogin.cs [Projeto]",
+              "RelativeToolTip": "AtividadeAvaliativa\\FormLogin.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T02:37:30.405Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "FormCadUsuario.cs",
               "DocumentMoniker": "C:\\Users\\rrena\\source\\repos\\atividade-avaliativa\\AtividadeAvaliativa\\AtividadeAvaliativa\\FormCadUsuario.cs",
               "RelativeDocumentMoniker": "AtividadeAvaliativa\\FormCadUsuario.cs",
               "ToolTip": "C:\\Users\\rrena\\source\\repos\\atividade-avaliativa\\AtividadeAvaliativa\\AtividadeAvaliativa\\FormCadUsuario.cs",
               "RelativeToolTip": "AtividadeAvaliativa\\FormCadUsuario.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAowBcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowB4AAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-13T02:22:16.314Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "FormCadUsuario.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\rrena\\source\\repos\\atividade-avaliativa\\AtividadeAvaliativa\\AtividadeAvaliativa\\FormCadUsuario.cs",
               "RelativeDocumentMoniker": "AtividadeAvaliativa\\FormCadUsuario.cs",
